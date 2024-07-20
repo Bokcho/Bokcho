@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**Bokcho/Bokcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm XIndexed! 👋
 
-Here are some ideas to get you started:
+I am a 22 year old programmer residing in the US, and have been programming in Lua for nearly 8 years. I am always learning new things and expanding my horizons!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Specialties
+I specialize in Luau, but I am expanding my horizons to C#, C++ and JavaScript!
+
+## Contributions
+* Lead Developer of [Anime Max Simulator](https://www.roblox.com/games/14752086859)
+* I have restored and prevented data loss for [Scythe Simulator!](https://www.roblox.com/games/17524285289)
+
+## Feedback
+
+If you want to get into contact with me, join my public [discord server]()!
